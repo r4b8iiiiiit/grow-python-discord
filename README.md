@@ -26,7 +26,7 @@ curl -sSL https://get.pimoroni.com/grow | bash
 * Install Discord Tools: `pip install -U discord.py`
 * Install Dotenv: `pip install -U python-dotenv`
 * Place your Discord Bot Token from the Discord Developer Portal into the '.env' file.
-
+* Finally, add your Discord channelID to the monitor.py file.
 
 ## Or... Install and configure dependencies from GitHub:
 
