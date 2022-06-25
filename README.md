@@ -1,3 +1,5 @@
+TODO: update monitor.py
+
 # Grow HAT Mini
 
 Designed as a tiny valet for your plants, Grow HAT mini will monitor the soil moiture for up to 3 plants, water them with tiny pumps, and show you their health on its small but informative screen. Learn more - https://shop.pimoroni.com/products/grow 
