@@ -21,6 +21,12 @@ curl -sSL https://get.pimoroni.com/grow | bash
 
 **Note** report issues with one-line installer here: https://github.com/pimoroni/get
 
+# Discord Integration Steps
+
+Install Discord Tools: pip install -U discord.py
+Install Dotenv: pip install -U python-dotenv
+
+
 ## Or... Install and configure dependencies from GitHub:
 
 * `git clone https://github.com/pimoroni/grow-python`
