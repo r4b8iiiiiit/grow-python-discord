@@ -23,9 +23,9 @@ curl -sSL https://get.pimoroni.com/grow | bash
 
 # Discord Integration Steps
 
-* `Install Discord Tools: pip install -U discord.py`
-* `Install Dotenv: pip install -U python-dotenv`
-* `Place your Discord Bot Token from the Discord Developer Portal into the '.env' file.`
+* Install Discord Tools: `pip install -U discord.py`
+* Install Dotenv: `pip install -U python-dotenv`
+* Place your Discord Bot Token from the Discord Developer Portal into the '.env' file.
 
 
 ## Or... Install and configure dependencies from GitHub:
